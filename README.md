@@ -12,7 +12,7 @@ Porém, optei em fazer um pouco mais e apliquei também Javascript, como era pro
 
 Aproveitei também pra adicionar alguns detalhes mínimos que creio que deram um toque a mais no site.
 
-Segue o link da proposta original, feita pelo canal "Online Tutorials" para quem quiser dar uma conferida: <a target="_blanket" href="https://www.youtube.com/watch?v=91Q6RvKvd7o">Vídeo Starbucks Landing Page</a>
+Segue o link da proposta original, feita pelo canal "Online Tutorials" para quem quiser dar uma conferida: <a target="_blank" href="https://www.youtube.com/watch?v=91Q6RvKvd7o">Vídeo Starbucks Landing Page</a>
 
 
 ### Visualizar projeto
